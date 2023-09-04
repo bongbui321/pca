@@ -1,0 +1,2 @@
+PCA: To identify the basis dimensions of data while keeping the most 
+     amount of information
